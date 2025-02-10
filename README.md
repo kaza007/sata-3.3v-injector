@@ -5,6 +5,7 @@ I came across these sata 16GB drives that I could not read or write to with a st
 
 <img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/sata-16gb-front.png" width="300"> 
 <img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/sata-16gb-back.png" width="300"> 
+
 <img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/usb-sata-adaptor.png" width="300"> 
 
 Apparently both the 5v and 3.3v supplies were required to achive this. So I thought I would design my adaptor to solve this issue.
