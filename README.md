@@ -1,10 +1,9 @@
 # sata 3.3v injector
 
 ## Background
-I came across these sata 16GB drives that I could not read or write to with a standard USB to ATA adaptor. (similar drive pictured below)
+I came across these sata 16GB drives that I could not read or write to with a standard USB to SATA adaptor. (similar drive pictured below)
 
-<img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/sata-16gb-front.png" width="300"> 
-<img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/sata-16gb-back.png" width="300"> 
+<img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/sata-16gb-front.png" width="300"> <img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/sata-16gb-back.png" width="300"> 
 
 <img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/usb-sata-cable.png" width="300"> 
 
