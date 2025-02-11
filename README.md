@@ -9,6 +9,15 @@ I came across these sata 16GB drives that I could not read or write to with a st
 
 Apparently both the 5v and 3.3v supplies were required to achive this. So I thought I would design an adaptor to solve this issue.
 
-## Schematic
-<img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/images/schematic.pdf" width="300">
+## Schematic and PCB
+My goto schematic capture and pcb design software is Kicad but I could not find suitable footprints for the sata connectors. I couldn't be bothered making them from scratch either :).
+
+So I used easyEda for the first time wich had an Cloud based and Desktop client available.
+
+The schematic has the male and female sata connectors connected pin to pin, except for the 3.3v line which is switched either pin to pin or to the 3.3v regulator output.
+
+<img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/schematic.png">
+
+## Fabrication
+
 
