@@ -9,15 +9,6 @@ I came across these sata 16GB drives that I could not read or write to with a st
 
 Apparently both the 5v and 3.3v supplies were required to achive this. So I thought I would design an adaptor to solve this issue.
 
-A voltage regualtor to drop the 5v rail down to 3.3v would be an easy solution.
+## Schematic
+<img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/images/schematic.pdf" width="300">
 
-## Design
-The AMS1117-3.3 was a good choice for the regulator as it can supply up to 1Amp. Add a smoothing and noise capacitor and its done.
-<img src="https://github.com/kaza007/sata-3.3v-injector/blob/main/regulator-circuit.png" width="300"> 
-
-Male and Female sata connectors were required for the adaptor.
-All the Data and Power connections would route directly through from the male to the female connector, except for the 3.3v line.
-The 5v power line would go from the male connector to the regulator.
-The 3.3v output of the regulator would goto a switch.
-
-more to come...
