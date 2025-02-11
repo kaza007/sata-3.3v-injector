@@ -37,4 +37,4 @@ When the pcb was being assembled there was also an issue placing the male sata c
 When routing the PCB, the GND traces on either side of the Data traces had Vias so that they were stitched to the bottom PCB ground fill. I did not define them correctly before placing so they were effectivley isolated from the ground plane. I have fixed that issue in version 1.1.
 
 ## Manufacturing Files
-todo
+Files are v1.0 at the time of writing.
